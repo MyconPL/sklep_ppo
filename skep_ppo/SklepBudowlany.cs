@@ -1,13 +1,20 @@
-﻿namespace skep_ppo;
-
-public class SklepBudowlany:Sklep
+﻿namespace SklepyApp
 {
-    public SklepBudowlany(string nazwa, int rokPowstania, int nip) : base(nazwa, rokPowstania, nip)
+    public class SklepBudowlany : Sklep
     {
-    }
+        public SklepBudowlany(string nazwa, int rokPowstania, string nip)
+            : base(nazwa, rokPowstania, nip)
+        {
+        }
 
-    public override void Powitanie()
-    {
-        
+        public override string Info()
+        {
+            return $"Sklep budowlany: {Nazwa}, rok założenia: {RokPowstania}";
+        }
+
+        public override string MetodaPlatnosci()
+        {
+            return "Płatność: gotówka";
+        }
     }
 }

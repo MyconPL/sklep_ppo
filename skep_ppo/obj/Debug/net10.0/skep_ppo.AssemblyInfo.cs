@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("skep_ppo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+899cf3830bea25833aa950d6bbb31d6f6ff8489b")]
 [assembly: System.Reflection.AssemblyProductAttribute("skep_ppo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("skep_ppo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

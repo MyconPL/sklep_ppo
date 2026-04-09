@@ -1,0 +1,15 @@
+C:\Users\inf-3\RiderProjects\sklep_ppo\skep_ppo\bin\Debug\net10.0\skep_ppo.exe
+C:\Users\inf-3\RiderProjects\sklep_ppo\skep_ppo\bin\Debug\net10.0\skep_ppo.deps.json
+C:\Users\inf-3\RiderProjects\sklep_ppo\skep_ppo\bin\Debug\net10.0\skep_ppo.runtimeconfig.json
+C:\Users\inf-3\RiderProjects\sklep_ppo\skep_ppo\bin\Debug\net10.0\skep_ppo.dll
+C:\Users\inf-3\RiderProjects\sklep_ppo\skep_ppo\bin\Debug\net10.0\skep_ppo.pdb
+C:\Users\inf-3\RiderProjects\sklep_ppo\skep_ppo\obj\Debug\net10.0\skep_ppo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inf-3\RiderProjects\sklep_ppo\skep_ppo\obj\Debug\net10.0\skep_ppo.AssemblyInfoInputs.cache
+C:\Users\inf-3\RiderProjects\sklep_ppo\skep_ppo\obj\Debug\net10.0\skep_ppo.AssemblyInfo.cs
+C:\Users\inf-3\RiderProjects\sklep_ppo\skep_ppo\obj\Debug\net10.0\skep_ppo.csproj.CoreCompileInputs.cache
+C:\Users\inf-3\RiderProjects\sklep_ppo\skep_ppo\obj\Debug\net10.0\skep_ppo.sourcelink.json
+C:\Users\inf-3\RiderProjects\sklep_ppo\skep_ppo\obj\Debug\net10.0\skep_ppo.dll
+C:\Users\inf-3\RiderProjects\sklep_ppo\skep_ppo\obj\Debug\net10.0\refint\skep_ppo.dll
+C:\Users\inf-3\RiderProjects\sklep_ppo\skep_ppo\obj\Debug\net10.0\skep_ppo.pdb
+C:\Users\inf-3\RiderProjects\sklep_ppo\skep_ppo\obj\Debug\net10.0\skep_ppo.genruntimeconfig.cache
+C:\Users\inf-3\RiderProjects\sklep_ppo\skep_ppo\obj\Debug\net10.0\ref\skep_ppo.dll
